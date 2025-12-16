@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Wind Turbine Blade Design 
+description: Design and Validation Group Project
+technologies: [Fusion 360, Matlab]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
